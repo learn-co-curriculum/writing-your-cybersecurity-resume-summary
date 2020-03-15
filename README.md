@@ -36,3 +36,8 @@ A strong resume summary:
 
 - Certified Information Systems Security Professional (CISSP) with six years of experience and expertise in designing, implementing, and troubleshooting network infrastructure and security. Proven record of evaluating system vulnerability in order to recommend security improvements as well as improve efficiency while aligning business processes with network design and infrastructure. Superior capacity to solve complex problems involving a wide variety of information systems, work independently on large-scale projects, and thrive under pressure in fast-paced environments while directing multiple projects from concept to implementation.
 
+## Resources
+
+- [Via Writing](https://viawriting.com/) and [Grammarix](https://grammarix.com) - these two blogs are full of posts and articles to help you improve your grammar skills.
+- [Word Counter](https://wordcounter.net) - a free online tool for managing and tracking the word count of your resume.
+
