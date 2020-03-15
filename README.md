@@ -29,8 +29,8 @@ A strong resume summary:
 - Former intelligence specialist & marketing professional seeking a position as a Security Consultant or Threat Analyst. Currently pursuing PMP certification. Expected graduate of SecureSet Academy with over 480 hours of classroom and lab experience in: Hunt Analysis, Network Security, Systems Security, GRC, Strategy/Analysis, Threat Intelligence and Logs/Detection.
 
 - An ambitious and results-driven graduate of SecureSet Academy with more than 450 hours of classroom and lab experience in: hunt analysis, network security, systems security, governance, risk and compliance (GRC), strategy/analysis, threat Intelligence and log/detection. 
-- HUNT Spring 2018 Capstone Team Winner out of 5 teams.
-- A unique combination of experience in technical writing, customer service, and incident response, results in an innovative team player looking for entry-level position with growth potential.
+     - HUNT Spring 2018 Capstone Team Winner out of 5 teams.
+     - A unique combination of experience in technical writing, customer service, and incident response, results in an innovative team player looking for entry-level position with growth potential.
 
 - Mission-driven Intelligence Analyst with over ten years of experience and expertise in conducting all-source intelligence analysis to directly support more than 2,500 military personnel and government employees. Proven record of applying advanced intelligence analytic skills to identify, assess, interpret, and report potential threats. Ability to work collaboratively with inter-agency Department of Defense personnel in high-pressure situations and under tight deadlines and brief on military-political leadership, national military strategy, strategic doctrine, and regional relations with regards to their impact on force developments.
 
